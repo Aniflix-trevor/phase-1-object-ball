@@ -52,7 +52,7 @@ contains and returns an object nested in the following manner:
 
 Use the following data to populate your `gameObject` as outlined above.
 
-Home Team:
+Home Team:;
 
 - Team name: Brooklyn Nets
 - Colors: Black, White
